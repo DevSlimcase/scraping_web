@@ -1,0 +1,2424 @@
+[
+  [
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01267",
+      "Ten_Xa": "Phường Sông Hiến"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01270",
+      "Ten_Xa": "Phường Sông Bằng"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01273",
+      "Ten_Xa": "Phường Hợp Giang"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01276",
+      "Ten_Xa": "Phường Tân Giang"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01279",
+      "Ten_Xa": "Phường Ngọc Xuân"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01282",
+      "Ten_Xa": "Phường Đề Thám"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01285",
+      "Ten_Xa": "Phường Hoà Chung"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01288",
+      "Ten_Xa": "Phường Duyệt Trung"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01693",
+      "Ten_Xa": "Xã Vĩnh Quang"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01705",
+      "Ten_Xa": "Xã Hưng Đạo"
+    },
+    {
+      "Ma_Tinh": "04",
+      "Ten_Tinh": "Tỉnh Cao Bằng",
+      "Ma_Huyen": "040",
+      "Ten_Huyen": "Thành phố Cao Bằng",
+      "Ma_Xa": "01720",
+      "Ten_Xa": "Xã Chu Trinh"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02020",
+      "Ten_Xa": "Thị trấn Bằng Lũng"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02023",
+      "Ten_Xa": "Xã Xuân Lạc"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02026",
+      "Ten_Xa": "Xã Nam Cường"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02029",
+      "Ten_Xa": "Xã Đồng Lạc"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02032",
+      "Ten_Xa": "Xã Tân Lập"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02035",
+      "Ten_Xa": "Xã Bản Thi"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02038",
+      "Ten_Xa": "Xã Quảng Bạch"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02041",
+      "Ten_Xa": "Xã Bằng Phúc"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02044",
+      "Ten_Xa": "Xã Yên Thịnh"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02047",
+      "Ten_Xa": "Xã Yên Thượng"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02050",
+      "Ten_Xa": "Xã Phương Viên"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02053",
+      "Ten_Xa": "Xã Ngọc Phái"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02059",
+      "Ten_Xa": "Xã Đồng Thắng"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02062",
+      "Ten_Xa": "Xã Lương Bằng"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02065",
+      "Ten_Xa": "Xã Bằng Lãng"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02068",
+      "Ten_Xa": "Xã Đại Sảo"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02071",
+      "Ten_Xa": "Xã Nghĩa Tá"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02077",
+      "Ten_Xa": "Xã Yên Mỹ"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02080",
+      "Ten_Xa": "Xã Bình Trung"
+    },
+    {
+      "Ma_Tinh": "06",
+      "Ten_Tinh": "Tỉnh Bắc Kạn",
+      "Ma_Huyen": "064",
+      "Ten_Huyen": "Huyện Chợ Đồn",
+      "Ma_Xa": "02083",
+      "Ten_Xa": "Xã Yên Phong"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03856",
+      "Ten_Xa": "Thị trấn Bắc Yên"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03859",
+      "Ten_Xa": "Xã Phiêng Ban"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03862",
+      "Ten_Xa": "Xã Hang Chú"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03865",
+      "Ten_Xa": "Xã Xím Vàng"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03868",
+      "Ten_Xa": "Xã Tà Xùa"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03869",
+      "Ten_Xa": "Xã Háng Đồng"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03871",
+      "Ten_Xa": "Xã Pắc Ngà"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03874",
+      "Ten_Xa": "Xã Làng Chếu"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03877",
+      "Ten_Xa": "Xã Chim Vàn"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03880",
+      "Ten_Xa": "Xã Mường Khoa"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03883",
+      "Ten_Xa": "Xã Song Pe"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03886",
+      "Ten_Xa": "Xã Hồng Ngài"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03889",
+      "Ten_Xa": "Xã Tạ Khoa"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03890",
+      "Ten_Xa": "Xã Hua Nhàn"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03892",
+      "Ten_Xa": "Xã Phiêng Côn"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "121",
+      "Ten_Huyen": "Huyện Bắc Yên",
+      "Ma_Xa": "03895",
+      "Ten_Xa": "Xã Chiềng Sại"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04060",
+      "Ten_Xa": "Thị trấn Yên Châu"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04063",
+      "Ten_Xa": "Xã Chiềng Đông"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04066",
+      "Ten_Xa": "Xã Sập Vạt"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04069",
+      "Ten_Xa": "Xã Chiềng Sàng"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04072",
+      "Ten_Xa": "Xã Chiềng Pằn"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04075",
+      "Ten_Xa": "Xã Viêng Lán"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04078",
+      "Ten_Xa": "Xã Chiềng Hặc"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04081",
+      "Ten_Xa": "Xã Mường Lựm"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04084",
+      "Ten_Xa": "Xã Chiềng On"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04087",
+      "Ten_Xa": "Xã Yên Sơn"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04090",
+      "Ten_Xa": "Xã Chiềng Khoi"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04093",
+      "Ten_Xa": "Xã Tú Nang"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04096",
+      "Ten_Xa": "Xã Lóng Phiêng"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04099",
+      "Ten_Xa": "Xã Phiêng Khoài"
+    },
+    {
+      "Ma_Tinh": "14",
+      "Ten_Tinh": "Tỉnh Sơn La",
+      "Ma_Huyen": "124",
+      "Ten_Huyen": "Huyện Yên Châu",
+      "Ma_Xa": "04102",
+      "Ten_Xa": "Xã Chiềng Tương"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04249",
+      "Ten_Xa": "Phường Yên Thịnh"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04252",
+      "Ten_Xa": "Phường Yên Ninh"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04255",
+      "Ten_Xa": "Phường Minh Tân"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04258",
+      "Ten_Xa": "Phường Nguyễn Thái Học"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04261",
+      "Ten_Xa": "Phường Đồng Tâm"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04264",
+      "Ten_Xa": "Phường Nguyễn Phúc"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04267",
+      "Ten_Xa": "Phường Hồng Hà"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04270",
+      "Ten_Xa": "Xã Minh Bảo"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04273",
+      "Ten_Xa": "Phường Nam Cường"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04276",
+      "Ten_Xa": "Xã Tuy Lộc"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04279",
+      "Ten_Xa": "Xã Tân Thịnh"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04540",
+      "Ten_Xa": "Xã Âu Lâu"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04543",
+      "Ten_Xa": "Xã Giới Phiên"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04546",
+      "Ten_Xa": "Phường Hợp Minh"
+    },
+    {
+      "Ma_Tinh": "15",
+      "Ten_Tinh": "Tỉnh Yên Bái",
+      "Ma_Huyen": "132",
+      "Ten_Huyen": "Thành phố Yên Bái",
+      "Ma_Xa": "04558",
+      "Ten_Xa": "Xã Văn Phú"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16438",
+      "Ten_Xa": "Thị trấn Tân Phong"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16447",
+      "Ten_Xa": "Xã Quảng Trạch"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16453",
+      "Ten_Xa": "Xã Quảng Đức"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16456",
+      "Ten_Xa": "Xã Quảng Định"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16462",
+      "Ten_Xa": "Xã Quảng Nhân"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16465",
+      "Ten_Xa": "Xã Quảng Ninh"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16468",
+      "Ten_Xa": "Xã Quảng Bình"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16471",
+      "Ten_Xa": "Xã Quảng Hợp"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16474",
+      "Ten_Xa": "Xã Quảng Văn"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16477",
+      "Ten_Xa": "Xã Quảng Long"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16480",
+      "Ten_Xa": "Xã Quảng Yên"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16483",
+      "Ten_Xa": "Xã Quảng Hòa"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16489",
+      "Ten_Xa": "Xã Quảng Khê"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16492",
+      "Ten_Xa": "Xã Quảng Trung"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16495",
+      "Ten_Xa": "Xã Quảng Chính"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16498",
+      "Ten_Xa": "Xã Quảng Ngọc"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16501",
+      "Ten_Xa": "Xã Quảng Trường"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16510",
+      "Ten_Xa": "Xã Quảng Phúc"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16519",
+      "Ten_Xa": "Xã Quảng Giao"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16540",
+      "Ten_Xa": "Xã Quảng Hải"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16543",
+      "Ten_Xa": "Xã Quảng Lưu"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16546",
+      "Ten_Xa": "Xã Quảng Lộc"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16549",
+      "Ten_Xa": "Xã Tiên Trang"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16552",
+      "Ten_Xa": "Xã Quảng Nham"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16555",
+      "Ten_Xa": "Xã Quảng Thạch"
+    },
+    {
+      "Ma_Tinh": "38",
+      "Ten_Tinh": "Tỉnh Thanh Hóa",
+      "Ma_Huyen": "406",
+      "Ten_Huyen": "Huyện Quảng Xương",
+      "Ma_Xa": "16558",
+      "Ten_Xa": "Xã Quảng Thái"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22969",
+      "Ten_Xa": "Thị trấn Liên Hương"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22972",
+      "Ten_Xa": "Thị trấn Phan Rí Cửa"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22975",
+      "Ten_Xa": "Xã Phan Dũng"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22978",
+      "Ten_Xa": "Xã Phong Phú"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22981",
+      "Ten_Xa": "Xã Vĩnh Hảo"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22984",
+      "Ten_Xa": "Xã Vĩnh Tân"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22987",
+      "Ten_Xa": "Xã Phú Lạc"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22990",
+      "Ten_Xa": "Xã Phước Thể"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22993",
+      "Ten_Xa": "Xã Hòa Minh"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22996",
+      "Ten_Xa": "Xã Chí Công"
+    },
+    {
+      "Ma_Tinh": "60",
+      "Ten_Tinh": "Tỉnh Bình Thuận",
+      "Ma_Huyen": "595",
+      "Ten_Huyen": "Huyện Tuy Phong",
+      "Ma_Xa": "22999",
+      "Ten_Xa": "Xã Bình Thạnh"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "62",
+      "Ten_Tinh": "Tỉnh Kon Tum",
+      "Ma_Huyen": "618",
+      "Ten_Huyen": "Huyện Ia H' Drai",
+      "Ma_Xa": "23535",
+      "Ten_Xa": "Xã Ia Đal"
+    },
+    {
+      "Ma_Tinh": "62",
+      "Ten_Tinh": "Tỉnh Kon Tum",
+      "Ma_Huyen": "618",
+      "Ten_Huyen": "Huyện Ia H' Drai",
+      "Ma_Xa": "23537",
+      "Ten_Xa": "Xã Ia Dom"
+    },
+    {
+      "Ma_Tinh": "62",
+      "Ten_Tinh": "Tỉnh Kon Tum",
+      "Ma_Huyen": "618",
+      "Ten_Huyen": "Huyện Ia H' Drai",
+      "Ma_Xa": "23538",
+      "Ten_Xa": "Xã Ia Tơi"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24490",
+      "Ten_Xa": "Thị trấn Phước An"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24493",
+      "Ten_Xa": "Xã KRông Búk"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24496",
+      "Ten_Xa": "Xã Ea Kly"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24499",
+      "Ten_Xa": "Xã Ea Kênh"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24502",
+      "Ten_Xa": "Xã Ea Phê"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24505",
+      "Ten_Xa": "Xã Ea KNuec"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24508",
+      "Ten_Xa": "Xã Ea Yông"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24511",
+      "Ten_Xa": "Xã Hòa An"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24514",
+      "Ten_Xa": "Xã Ea Kuăng"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24517",
+      "Ten_Xa": "Xã Hòa Đông"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24520",
+      "Ten_Xa": "Xã Ea Hiu"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24523",
+      "Ten_Xa": "Xã Hòa Tiến"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24526",
+      "Ten_Xa": "Xã Tân Tiến"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24529",
+      "Ten_Xa": "Xã Vụ Bổn"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24532",
+      "Ten_Xa": "Xã Ea Uy"
+    },
+    {
+      "Ma_Tinh": "66",
+      "Ten_Tinh": "Tỉnh Đắk Lắk",
+      "Ma_Huyen": "654",
+      "Ten_Huyen": "Huyện Krông Pắc",
+      "Ma_Xa": "24535",
+      "Ten_Xa": "Xã Ea Yiêng"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25308",
+      "Ten_Xa": "Thị trấn Thanh Bình"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25309",
+      "Ten_Xa": "Xã Hưng Phước"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25310",
+      "Ten_Xa": "Xã Phước Thiện"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25312",
+      "Ten_Xa": "Xã Thiện Hưng"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25315",
+      "Ten_Xa": "Xã Thanh Hòa"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25318",
+      "Ten_Xa": "Xã Tân Thành"
+    },
+    {
+      "Ma_Tinh": "70",
+      "Ten_Tinh": "Tỉnh Bình Phước",
+      "Ma_Huyen": "693",
+      "Ten_Huyen": "Huyện Bù Đốp",
+      "Ma_Xa": "25321",
+      "Ten_Xa": "Xã Tân Tiến"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26548",
+      "Ten_Xa": "Phường Phước Hưng"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26551",
+      "Ten_Xa": "Phường Phước Hiệp"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26554",
+      "Ten_Xa": "Phường Phước Nguyên"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26557",
+      "Ten_Xa": "Phường Long Toàn"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26558",
+      "Ten_Xa": "Phường Long Tâm"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26560",
+      "Ten_Xa": "Phường Phước Trung"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26563",
+      "Ten_Xa": "Phường Long Hương"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26566",
+      "Ten_Xa": "Phường Kim Dinh"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26567",
+      "Ten_Xa": "Xã Tân Hưng"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26569",
+      "Ten_Xa": "Xã Long Phước"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "748",
+      "Ten_Huyen": "Thành phố Bà Rịa",
+      "Ma_Xa": "26572",
+      "Ten_Xa": "Xã Hoà Long"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26704",
+      "Ten_Xa": "Phường Phú Mỹ"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26707",
+      "Ten_Xa": "Xã Tân Hoà"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26710",
+      "Ten_Xa": "Xã Tân Hải"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26713",
+      "Ten_Xa": "Phường Phước Hoà"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26716",
+      "Ten_Xa": "Phường Tân Phước"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26719",
+      "Ten_Xa": "Phường Mỹ Xuân"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26722",
+      "Ten_Xa": "Xã Sông Xoài"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26725",
+      "Ten_Xa": "Phường Hắc Dịch"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26728",
+      "Ten_Xa": "Xã Châu Pha"
+    },
+    {
+      "Ma_Tinh": "77",
+      "Ten_Tinh": "Tỉnh Bà Rịa - Vũng Tàu",
+      "Ma_Huyen": "754",
+      "Ten_Huyen": "Thị xã Phú Mỹ",
+      "Ma_Xa": "26731",
+      "Ten_Xa": "Xã Tóc Tiên"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27796",
+      "Ten_Xa": "Xã Bình Hòa Tây"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27802",
+      "Ten_Xa": "Xã Bình Thạnh"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27808",
+      "Ten_Xa": "Xã Bình Hòa Trung"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27811",
+      "Ten_Xa": "Xã Bình Hòa Đông"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27814",
+      "Ten_Xa": "Thị trấn Bình Phong Thạnh"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27820",
+      "Ten_Xa": "Xã Tân Lập"
+    },
+    {
+      "Ma_Tinh": "80",
+      "Ten_Tinh": "Tỉnh Long An",
+      "Ma_Huyen": "798",
+      "Ten_Huyen": "Huyện Mộc Hóa",
+      "Ma_Xa": "27823",
+      "Ten_Xa": "Xã Tân Thành"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28360",
+      "Ten_Xa": "Thị trấn Cái Bè"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28363",
+      "Ten_Xa": "Xã Hậu Mỹ Bắc B"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28366",
+      "Ten_Xa": "Xã Hậu Mỹ Bắc A"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28369",
+      "Ten_Xa": "Xã Mỹ Trung"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28372",
+      "Ten_Xa": "Xã Hậu Mỹ Trinh"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28375",
+      "Ten_Xa": "Xã Hậu Mỹ Phú"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28378",
+      "Ten_Xa": "Xã Mỹ Tân"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28381",
+      "Ten_Xa": "Xã Mỹ Lợi B"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28384",
+      "Ten_Xa": "Xã Thiện Trung"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28387",
+      "Ten_Xa": "Xã Mỹ Hội"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28390",
+      "Ten_Xa": "Xã An Cư"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28393",
+      "Ten_Xa": "Xã Hậu Thành"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28396",
+      "Ten_Xa": "Xã Mỹ Lợi A"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28399",
+      "Ten_Xa": "Xã Hòa Khánh"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28402",
+      "Ten_Xa": "Xã Thiện Trí"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28405",
+      "Ten_Xa": "Xã Mỹ Đức Đông"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28408",
+      "Ten_Xa": "Xã Mỹ Đức Tây"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28411",
+      "Ten_Xa": "Xã Đông Hòa Hiệp"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28414",
+      "Ten_Xa": "Xã An Thái Đông"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28417",
+      "Ten_Xa": "Xã Tân Hưng"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28420",
+      "Ten_Xa": "Xã Mỹ Lương"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28423",
+      "Ten_Xa": "Xã Tân Thanh"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28426",
+      "Ten_Xa": "Xã An Thái Trung"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28429",
+      "Ten_Xa": "Xã An Hữu"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "819",
+      "Ten_Huyen": "Huyện Cái Bè",
+      "Ma_Xa": "28432",
+      "Ten_Xa": "Xã Hòa Hưng"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28702",
+      "Ten_Xa": "Thị trấn Tân Hòa"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28705",
+      "Ten_Xa": "Xã Tăng Hoà"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28711",
+      "Ten_Xa": "Xã Tân Phước"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28714",
+      "Ten_Xa": "Xã Gia Thuận"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28720",
+      "Ten_Xa": "Thị trấn Vàm Láng"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28723",
+      "Ten_Xa": "Xã Tân Tây"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28726",
+      "Ten_Xa": "Xã Kiểng Phước"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28732",
+      "Ten_Xa": "Xã Tân Đông"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28735",
+      "Ten_Xa": "Xã Bình Ân"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28738",
+      "Ten_Xa": "Xã Tân Điền"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28741",
+      "Ten_Xa": "Xã Bình Nghị"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28744",
+      "Ten_Xa": "Xã Phước Trung"
+    },
+    {
+      "Ma_Tinh": "82",
+      "Ten_Tinh": "Tỉnh Tiền Giang",
+      "Ma_Huyen": "824",
+      "Ten_Huyen": "Huyện Gò Công Đông",
+      "Ma_Xa": "28747",
+      "Ten_Xa": "Xã Tân Thành"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31186",
+      "Ten_Xa": "Phường Lê Bình"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31189",
+      "Ten_Xa": "Phường Hưng Phú"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31192",
+      "Ten_Xa": "Phường Hưng Thạnh"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31195",
+      "Ten_Xa": "Phường Ba Láng"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31198",
+      "Ten_Xa": "Phường Thường Thạnh"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31201",
+      "Ten_Xa": "Phường Phú Thứ"
+    },
+    {
+      "Ma_Tinh": "92",
+      "Ten_Tinh": "Thành phố Cần Thơ",
+      "Ma_Huyen": "919",
+      "Ten_Huyen": "Quận Cái Răng",
+      "Ma_Xa": "31204",
+      "Ten_Xa": "Phường Tân Phú"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06970",
+      "Ten_Xa": "Thị trấn Ba Chẽ"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06973",
+      "Ten_Xa": "Xã Thanh Sơn"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06976",
+      "Ten_Xa": "Xã Thanh Lâm"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06979",
+      "Ten_Xa": "Xã Đạp Thanh"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06982",
+      "Ten_Xa": "Xã Nam Sơn"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06985",
+      "Ten_Xa": "Xã Lương Mông"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06988",
+      "Ten_Xa": "Xã Đồn Đạc"
+    },
+    {
+      "Ma_Tinh": "22",
+      "Ten_Tinh": "Tỉnh Quảng Ninh",
+      "Ma_Huyen": "202",
+      "Ten_Huyen": "Huyện Ba Chẽ",
+      "Ma_Xa": "06991",
+      "Ten_Xa": "Xã Minh Cầm"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16738",
+      "Ten_Xa": "Thị trấn Kim Sơn"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16741",
+      "Ten_Xa": "Xã Thông Thụ"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16744",
+      "Ten_Xa": "Xã Đồng Văn"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16747",
+      "Ten_Xa": "Xã Hạnh Dịch"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16750",
+      "Ten_Xa": "Xã Tiền Phong"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16753",
+      "Ten_Xa": "Xã Nậm Giải"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16756",
+      "Ten_Xa": "Xã Tri Lễ"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16759",
+      "Ten_Xa": "Xã Châu Kim"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16763",
+      "Ten_Xa": "Xã Mường Nọc"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16765",
+      "Ten_Xa": "Xã Châu Thôn"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16768",
+      "Ten_Xa": "Xã Nậm Nhoóng"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16771",
+      "Ten_Xa": "Xã Quang Phong"
+    },
+    {
+      "Ma_Tinh": "40",
+      "Ten_Tinh": "Tỉnh Nghệ An",
+      "Ma_Huyen": "415",
+      "Ten_Huyen": "Huyện Quế Phong",
+      "Ma_Xa": "16774",
+      "Ten_Xa": "Xã Căm Muộn"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10546",
+      "Ten_Xa": "Phường Phả Lại"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10549",
+      "Ten_Xa": "Phường Sao Đỏ"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10552",
+      "Ten_Xa": "Phường Bến Tắm"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10555",
+      "Ten_Xa": "Xã Hoàng Hoa Thám"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10558",
+      "Ten_Xa": "Xã Bắc An"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10561",
+      "Ten_Xa": "Xã Hưng Đạo"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10564",
+      "Ten_Xa": "Xã Lê Lợi"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10567",
+      "Ten_Xa": "Phường Hoàng Tiến"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10570",
+      "Ten_Xa": "Phường Cộng Hoà"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10573",
+      "Ten_Xa": "Phường Hoàng Tân"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10576",
+      "Ten_Xa": "Phường Cổ Thành"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10579",
+      "Ten_Xa": "Phường Văn An"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10582",
+      "Ten_Xa": "Phường Chí Minh"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10585",
+      "Ten_Xa": "Phường Văn Đức"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10588",
+      "Ten_Xa": "Phường Thái Học"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10591",
+      "Ten_Xa": "Xã Nhân Huệ"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10594",
+      "Ten_Xa": "Phường An Lạc"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10600",
+      "Ten_Xa": "Phường Đồng Lạc"
+    },
+    {
+      "Ma_Tinh": "30",
+      "Ten_Tinh": "Tỉnh Hải Dương",
+      "Ma_Huyen": "290",
+      "Ten_Huyen": "Thành phố Chí Linh",
+      "Ma_Xa": "10603",
+      "Ten_Xa": "Phường Tân Dân"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30502",
+      "Ten_Xa": "Thị trấn Nhà Bàng"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30505",
+      "Ten_Xa": "Thị trấn Chi Lăng"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30508",
+      "Ten_Xa": "Xã Núi Voi"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30511",
+      "Ten_Xa": "Xã Nhơn Hưng"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30514",
+      "Ten_Xa": "Xã An Phú"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30517",
+      "Ten_Xa": "Xã Thới Sơn"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30520",
+      "Ten_Xa": "Thị trấn Tịnh Biên"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30523",
+      "Ten_Xa": "Xã Văn Giáo"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30526",
+      "Ten_Xa": "Xã An Cư"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30529",
+      "Ten_Xa": "Xã An Nông"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30532",
+      "Ten_Xa": "Xã Vĩnh Trung"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30535",
+      "Ten_Xa": "Xã Tân Lợi"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30538",
+      "Ten_Xa": "Xã An Hảo"
+    },
+    {
+      "Ma_Tinh": "89",
+      "Ten_Tinh": "Tỉnh An Giang",
+      "Ma_Huyen": "890",
+      "Ten_Huyen": "Huyện Tịnh Biên",
+      "Ma_Xa": "30541",
+      "Ten_Xa": "Xã Tân Lập"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00343",
+      "Ten_Xa": "Phường Nhân Chính"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00346",
+      "Ten_Xa": "Phường Thượng Đình"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00349",
+      "Ten_Xa": "Phường Khương Trung"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00352",
+      "Ten_Xa": "Phường Khương Mai"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00355",
+      "Ten_Xa": "Phường Thanh Xuân Trung"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00358",
+      "Ten_Xa": "Phường Phương Liệt"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00361",
+      "Ten_Xa": "Phường Hạ Đình"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00364",
+      "Ten_Xa": "Phường Khương Đình"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00367",
+      "Ten_Xa": "Phường Thanh Xuân Bắc"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00370",
+      "Ten_Xa": "Phường Thanh Xuân Nam"
+    },
+    {
+      "Ma_Tinh": "01",
+      "Ten_Tinh": "Thành phố Hà Nội",
+      "Ma_Huyen": "009",
+      "Ten_Huyen": "Quận Thanh Xuân",
+      "Ma_Xa": "00373",
+      "Ten_Xa": "Phường Kim Giang"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31894",
+      "Ten_Xa": "Xã Vĩnh Hưng"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31897",
+      "Ten_Xa": "Xã Vĩnh Hưng A"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31900",
+      "Ten_Xa": "Thị trấn Châu Hưng"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31903",
+      "Ten_Xa": "Xã Châu Hưng A"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31906",
+      "Ten_Xa": "Xã Hưng Thành"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31909",
+      "Ten_Xa": "Xã Hưng Hội"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31912",
+      "Ten_Xa": "Xã Châu Thới"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "958",
+      "Ten_Huyen": "Huyện Vĩnh Lợi",
+      "Ma_Xa": "31921",
+      "Ten_Xa": "Xã Long Thạnh"
+    }
+  ],
+  [
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31972",
+      "Ten_Xa": "Thị trấn Gành Hào"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31975",
+      "Ten_Xa": "Xã Long Điền Đông"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31978",
+      "Ten_Xa": "Xã Long Điền Đông A"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31981",
+      "Ten_Xa": "Xã Long Điền"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31984",
+      "Ten_Xa": "Xã Long Điền Tây"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31985",
+      "Ten_Xa": "Xã Điền Hải"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31987",
+      "Ten_Xa": "Xã An Trạch"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31988",
+      "Ten_Xa": "Xã An Trạch A"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31990",
+      "Ten_Xa": "Xã An Phúc"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31993",
+      "Ten_Xa": "Xã Định Thành"
+    },
+    {
+      "Ma_Tinh": "95",
+      "Ten_Tinh": "Tỉnh Bạc Liêu",
+      "Ma_Huyen": "960",
+      "Ten_Huyen": "Huyện Đông Hải",
+      "Ma_Xa": "31996",
+      "Ten_Xa": "Xã Định Thành A"
+    }
+  ]
+]
