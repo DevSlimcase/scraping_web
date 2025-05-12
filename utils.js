@@ -3,10 +3,10 @@ function saveToFile(data, filename) {
     fs.writeFileSync(filename, JSON.stringify(data, null, 2), 'utf-8');
 }
 function readFromFile(filename) {
-    if (!fs.existsSync(filename)) {
-        throw new Error(`File ${filename} does not exist`);
+    if (!filename.endsWith('.json')) {
+        throw new Error('Filename must have a .json extension');
     }
-    const data = fs.read(filename, 'utf-8');
+    const data = fs.readFileSync(filename, 'utf-8');
     return JSON.parse(data);
 }
 

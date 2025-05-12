@@ -15,7 +15,8 @@ class WebCrawler{
     }
     async crawl(path) {
         try {
-            console.log('Crawling started...');
+            const timestamp = new Date().toISOString(); // Get the current timestamp
+            console.log(`Crawling started... ${timestamp}`); // Log the start of the crawling process
             const response = await this.client.get(path); // Fetch the HTML content from the URL using the client
             if (response.status !== 200) {
                 throw new Error(`Failed to fetch data from ${this.domain}${path}. Status code: ${response.status}`); // Check for successful response
@@ -24,7 +25,7 @@ class WebCrawler{
             return data; // Return the HTML content
         } catch (error) {
             console.error('Crawling failed:', error.message);
-            throw error;
+            return 'error'
         }
     }
 }

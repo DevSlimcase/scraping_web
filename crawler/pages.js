@@ -43,6 +43,7 @@ class PageProvince extends page {
 class PageDistrict extends PageProvince {}
 class PageCommune extends PageProvince {
     getHeader(table){
+        const $ = cheerio.load(this.raw); // Load the table HTML into cheerio
         const header = []; // Array to store header values
         table.find('thead th').each((index, element) => { // Iterate over each header cell in the table
             const text = $(element).text().trim(); // Get the text content of the header cell
@@ -53,7 +54,7 @@ class PageCommune extends PageProvince {
         return header; // Return the array of header values
     }
     getData(table){
-        
+        const $ = cheerio.load(this.raw); // Load the table HTML into cheerio
         const rows = []; // Array to store row data
         table.find('tbody tr').each((index, element) => { // Iterate over each row in the table body
             const row = []; // Array to store cell values for the current row
