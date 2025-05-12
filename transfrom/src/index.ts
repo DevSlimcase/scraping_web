@@ -1,7 +1,5 @@
-
-import { NewListAddress, CategoriesProvince, ListCommune } from './../project_types';
- } from './../project_types';
-import { readFromFile, saveToFile,slug_generation } from './utils/index';
+import { NewListAddress, CategoriesProvince, ListCommune, CategoriesDistrict,CategoriesWard } from './../project_types';
+import { Client,readFromFile, saveToFile,slug_generation } from './utils/index';
 
 const formatAddressProvince = (value:string):string => {
     // input value = 'Tỉnh Hà Giang'
@@ -17,56 +15,24 @@ const formatAddressDistrict = (value:string):string => {
 const formatAddressWard = (value:string):string => {
     return formatAddressProvince(value);
 }
-// const transformAddress = (address: ListCommune): OldListAddress[] => {
-//     return address.map((commune) => {
-//         const { Ma_Tinh, Ten_Tinh, Ma_Huyen, Ten_Huyen, Ma_Xa, Ten_Xa } = commune;
 
-       
-//         const formattedWard: OldWard = Ma_Xa ? [
-//             Ma_Xa,
-//             Ten_Xa,
-//             'Xã',
-//             formatAddressWard(Ten_Xa)
-//         ] : [];
+const main = async () => {
+    // const instance = new Client('http://localhost:2304/vn/api/commune');
+    // const list_province = await instance.post('/province', {});
+    // console.log(list_province);
 
-//         const formattedDistrict: OldCommunes = Ma_Huyen ? [
-//             Ma_Huyen,
-//             Ten_Huyen,
-//             'Huyện',
-//             formatAddressDistrict(Ten_Huyen),
-//             [formattedWard] // OldListWard
-//         ] : [];
+    // const list_district = await instance.post('/district', {
+        // ma_tinh: 74})
+    // console.log(list_district);
 
-//         const formattedProvince: OldListAddress = [
-//             Ma_Tinh,
-//             Ten_Tinh,
-//             'Tỉnh',
-//             formatAddressProvince(Ten_Tinh),
-//             [formattedDistrict] // OldListCommune
-//         ];
+    // const commune = await instance.post('/',{
+    // "ma_huyen":720
+    // });
+    // console.log(commune);
 
-//         return formattedProvince;
-//     });
-// };
+    const data : ListCommune = readFromFile('./src/data/commune.json');
+    console.log(data.length);
 
-
-const getCategoriesProvinces = (address: ListCommune): CategoriesProvince => {
-    let newAddress: CategoriesProvince = [];
-    address.forEach((item) => {
-        const { Ma_Tinh, Ten_Tinh, Ma_Huyen, Ten_Huyen, Ma_Xa, Ten_Xa } = item;
-        let slug_province = formatAddressProvince(Ten_Tinh);
-        if (newAddress.indexOf(slug_province) !== -1) {
-            return;
-        }
-        newAddress.push(slug_province);
-    })
-    return newAddress;
-}
-
-const main = () => {
-    const dataAddress: ListCommune = readFromFile<ListCommune>('src/data/commune.json');
-    const new_address = getCategoriesProvinces(dataAddress);
-    saveToFile(new_address, 'src/data/categories_provinces.json');
 }
 main();
 

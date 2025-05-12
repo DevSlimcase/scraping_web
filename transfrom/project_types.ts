@@ -73,8 +73,26 @@ export type OldListCommune = OldCommunes[] | [];
 //         "huyen-dong-van": {"no":"026","list":["xa-van-chai-1","xa-thai-hoc-2"],"nodes":{}},
 //         "huyen-quan-ba": {"no":"027","list":["xa-van-chai-3","xa-thai-hoc-4"],"nodes":{}}
 
-export type CategoriesProvince = string[]
+export type CategoriesProvince = {no:string,name:string}[]
+export type CategoriesDistrict = CategoriesProvince
+export type CategoriesWard = CategoriesProvince
 export type NewListAddress = {
-    [key: string]: {}
+    [key: string]: {
+        no: string;
+        list: string[];
+        nodes: {
+            [key: string]: {
+                no: string;
+                list: string[];
+                nodes: {
+                    [key: string]: {
+                        no: string;
+                        list: string[];
+                        nodes: {};
+                    };
+                };
+            };
+        };
+    }
 }
 
