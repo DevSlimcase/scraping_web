@@ -9,9 +9,27 @@ class Bot{
     async crawl(url) {
         throw new Error('Method "crawl" must be implemented'); // Abstract method for crawling
     }
-
-    async processPage(url, PageClass) {
+    async wait(time) {
+        return new Promise((resolve) => {
+            setTimeout(() => {
+                resolve();
+            }, time);
+        });
+    }
+    async crawlAgian(url,PageClass,attempts = 0) {
+        const pools = {
+            1: 1000,
+            2: 3000,
+            3: 5000,
+        }
+        await this.wait(pools[attempts]); // Wait for the specified time before retrying
+        return await this.processPage(url, PageClass, attempts + 1); // Retry the processPage method with incremented attempts
+    }
+    async processPage(url, PageClass,attempts = 0) {
         const html = await this.client.crawl(url); // Call the crawl method with the URL
+        if(attempts < 4 && html === 'error'){
+            return await this.crawlAgian(url,PageClass,attempts); // Retry the crawl if it fails
+        }
         if (html === 'error') {
             return { error: 'Failed to fetch data', url }; // Handle error case
         }
