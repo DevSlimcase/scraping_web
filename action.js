@@ -1,103 +1,132 @@
-import { BotProvince,BotDistrict,BotCommune } from "./crawler/bot.js"; // Import the Bot class for bot handling
-import { RequestStrategySelector } from "./crawler/requestAPIStrategy.js"
-import WebCrawler from "./crawler/crawler.js"; // Import the WebCrawler class for web crawling
-import { saveToFile,readFromFile } from "./utils.js"; // Import the saveToFile function for saving data to a file
+import { BotProvince, BotDistrict, BotCommune } from "./src/bot.js";
+import { RequestStrategySelector } from "./src/requestAPIStrategy.js";
+import WebCrawler from "./src/crawler.js";
+import { saveToFile, readFromFile } from "./utils/index.js";
+import { exec } from 'child_process';
+import dotenv from 'dotenv';
+dotenv.config();
 
-const properties = { 
-    domain: 'https://thongkehochiminh.gso.gov.vn', // Domain for the bot
-    client: new WebCrawler('https://thongkehochiminh.gso.gov.vn') // Create an instance of WebCrawler
-}
-
-const extractLinksError = (data)=>{
-    const result = []
-    data.forEach((item) => {
-        if (item.error) {
-            result.push(item.url)
-        } 
-    });
-    return result
-}
-const extractLinksSuccess = (data)=>{
-    const result = []
-    data.forEach((item) => {
-        if (!item.error) {
-            result.push(item.url)
-        } 
-    });
-    return result
-}
-
-const miningDistrictData = async ()=>{
-    const folder = "./data/crawler/new" // Folder to save the data
-    const file_name = 'district'
-
-    const list_links = readFromFile(`${folder}/province.json`); // Read the data from the file
-    const botDistrict = new BotDistrict(properties.client,"DM_Huyen")
-    let strategy = RequestStrategySelector.getStrategy(list_links); // Get the request strategy based on the data and client
-    strategy.setClient(botDistrict); // Set the client for the strategy
-    const data = await strategy.execute("crawl"); // Execute the strategy to process the data
-    
-    const newFolder = `./data/crawler/full` // Create a new folder to save the data
-    saveToFile(data,convensionFileName(newFolder,file_name,1)) // Save the data to a file
-    // loopCrawlerDistrict(folder,file_name,1)
-}
-const convensionFileName = (folder,filename,no)=>{
-    // const symbol = ['-','_','@']
-
-    return `${folder}/${filename}__${no}.json`
-}
-const loopCrawlerDistrict = async (folder,name,no=1)=>{
-    
-    const list_links = readFromFile(convensionFileName(folder,name,no)); // Read the data from the file
-    const errorLinks = extractLinksError(list_links)
-    if(errorLinks.length === 0){
-        console.log("All links are valid");
-        return;
+const flatData = (data) => data.flat();
+class BuildMachine {
+    constructor(properties) {
+        this.properties = properties;
+        this.client = null;
+        this.folder = null;
+        this.file_name = null;
+        this.input = null;
+        this.type = null;
+        this.bot = null;
     }
-    const botDistrict = new BotDistrict(properties.client,"DM_Huyen")
-    let strategy = RequestStrategySelector.getStrategy(errorLinks); // Get the request strategy based on the data and client
-    strategy.setClient(botDistrict); // Set the client for the strategy
-    const data = await strategy.execute("crawl"); // Execute the strategy to process the data
-    saveToFile(data,convensionFileName(folder,name,no+1)) // Save the data to a file
-    // wait file saved
-    // await new Promise(resolve => setTimeout(resolve, 5000));
-    return await loopCrawlerDistrict(folder,name,no+1) // Recursively call the function to process the next set of data
-}
-const miningWardData = async ()=>{
-    const folder = "./data/crawler/full" // Folder to save the data
-    const file_name = 'wards'
+    setType(value) {
+        this.type = value;
+    }
+    buildClient(){
+        
+        if(!this.properties.client) throw new Error(`not exist client in properties`);
+        
+        this.client = this.properties.client;
+    }
+    buildFolder(){
+        if(!this.properties.folder) throw new Error(`not exist folder in properties`);
+        
+        this.folder = this.properties.folder;
+    }
+    buildFileName() {
+        if(!this.properties.file_name[this.type]) throw new Error(`not exist file_name in properties`);
+        
+        this.file_name = this.properties.file_name[this.type];
 
-    const list_links = readFromFile(`${folder}/district_full.json`); // Read the data from the file
-    const botCommune = new BotCommune(properties.client,"DM_Xa")
-    let strategy = RequestStrategySelector.getStrategy(list_links); // Get the request strategy based on the data and client
-    strategy.setClient(botCommune); // Set the client for the strategy
-    const data = await strategy.execute("crawl"); // Execute the strategy to process the data
-    
-    const newFolder = `./data/crawler/full` // Create a new folder to save the data
-    saveToFile(data,`${newFolder}/${file_name}.json`) // Save the data to a file
+        if(!this.file_name) throw new Error(`not exist file_name in properties`);
+    }
+    buildInput(){
+        if(this.type === 'province'){
+            this.input = this.properties.start_path; return;
+        }
+        if(this.type === 'district'){
+            this.input = readFromFile(`${this.folder}/${this.properties.file_name.province}`); return;
+        }
+        if(this.type === 'commune'){
+            this.input = readFromFile(`${this.folder}/${this.properties.file_name.district}`); return;
+        }
+        throw new Error(`Invalid type ${this.type}`);
+    }
+    buildBotClass(){
+        if(this.type === 'province'){
+            this.bot = new BotProvince(this.client, this.type); return;
+        }
+        if(this.type === 'district'){
+            this.bot = new BotDistrict(this.client, this.type); return;
+        }
+        if(this.type === 'commune'){
+            this.bot = new BotCommune(this.client, this.type); return;
+        }
+    }
+    build(){
+        this.buildClient();
+        this.buildFolder();
+        this.buildFileName();
+        this.buildInput();
+        this.buildBotClass();
+    }
+    extractFileToCsv(){
+        // run python convert/action.py
+        const command = `python convert/action.py ${this.folder}/${this.file_name}`;
+        exec(command, (error, stdout, stderr) => {
+            if (error) {
+                console.error(`Error executing command: ${error.message}`);
+                return;
+            }
+            if (stderr) {
+                console.error(`stderr: ${stderr}`);
+                return;
+            }
+            console.log(`stdout: ${stdout}`);
+        });
+    }
+    async miningData() {
+        this.build();
+        const strategy = RequestStrategySelector.getStrategy(this.input);
+        strategy.setClient(this.bot);
+        const data = await strategy.execute("crawl");
+        const flatDataResult = flatData(data);
+        saveToFile(flatDataResult, `${this.folder}/${this.file_name}`);
+        
+        if(this.type === 'commune') this.extractFileToCsv()
+        console.log(`Data ${this.type} has been saved to file ${this.file_name}`);
+    }
 }
-const parseArray = (data) => {
-    return data.flat(); // Flatten the array to remove nested arrays
+
+const action = async () => {
+    const host = process.env.HOST || 'localhost';
+
+    const properties = { 
+        domain: host,
+        client: new WebCrawler(host),
+        folder: "./data",
+        file_name: {
+            province: 'province.json',
+            district: 'district.json',
+            commune: 'commune.json'
+        },
+        start_path: '/Danhmuc/Dm_Tinh',
+    };
+
+    let buildMachine = new BuildMachine(properties);
+
+    buildMachine.setType('province');
+    await buildMachine.miningData();
+
+    buildMachine.setType('district');
+    await buildMachine.miningData();
+
+    buildMachine.setType('commune');
+    await buildMachine.miningData();
+    
 };
-const action = async ()=>{
-    // miningDistrictData()
-    // const folder = "./data/crawler/full" // Folder to save the data
-    // const file_name = 'district_full'
-    // const list_links = readFromFile(`${folder}/district.json`); // Read the data from the file
-    // const data = parseArray(list_links)
-    // saveToFile(data,`${folder}/${file_name}.json`) // Save the data to a file
-    // miningWardData()
-    
-    // const folder = "./data/crawler/full" // Folder to save the data
-    // const file_name = 'wards_full'
-    // const list_links = readFromFile(`${folder}/wards.json`); // Read the data from the file
-    // const data = parseArray(list_links)
-    // saveToFile(data,`${folder}/${file_name}.json`) // Save the data to a file
-}
 
 action()
-.then((result) => {
-    console.log(result); // Handle the result here
-}).catch((error) => {
-    console.error(error); // Handle errors here
-});
+    .then((result) => {
+        console.log(result);
+    }).catch((error) => {
+        console.error(error);
+    });

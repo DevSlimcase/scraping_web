@@ -1,0 +1,10 @@
+#!/bin/bash
+# setup_project.sh
+
+# This script sets up the project dependencies for both Node.js and Python environments on Linux.
+
+# Install Node.js dependencies
+npm install
+
+# Install Python dependencies
+pip install -r convert/requirements.txt

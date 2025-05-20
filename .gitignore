@@ -29,3 +29,9 @@ Thumbs.db
 .npm/
 data/
 src/data/
+*.csv
+**/*.csv
+*.json
+**/*.json
+!**/wards_full_insert.json
+transfrom
