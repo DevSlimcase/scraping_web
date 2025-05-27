@@ -34,4 +34,5 @@ src/data/
 *.json
 **/*.json
 !**/wards_full_insert.json
+!package.json
 transfrom
