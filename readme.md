@@ -44,6 +44,13 @@ This will generate JSON files in the `data/` directory:
 - `district.json`
 - `commune.json`
 
+### Alternative: Crawl Data Using `crawlee.js`
+You can also run the crawler directly with the `crawlee.js` script for more flexibility or development purposes:
+```sh
+node crawlee.js
+```
+This will perform the same crawling process and generate JSON files in the `data/` directory at folder `storage/`
+
 ### 2. Convert JSON to CSV
 To convert a JSON file (e.g., commune.json) to CSV, run:
 ```sh

@@ -36,3 +36,4 @@ src/data/
 !**/wards_full_insert.json
 !package.json
 transfrom
+storage
